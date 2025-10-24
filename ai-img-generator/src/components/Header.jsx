@@ -1,0 +1,10 @@
+function Header() {
+  return (
+    <div className="header">
+      <h1>AI Image Generator</h1>
+      <p>Create stunning images from text descriptions using advanced AI technology</p>
+    </div>
+  );
+}
+
+export default Header;
